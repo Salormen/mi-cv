@@ -21,7 +21,7 @@ let sections = [
 const CV = ({ actions, user, queries, patients }) => (
   <div className="cv">  
     <nav className="cv-navbar">
-      <img className="cv-navbar-logo" alt="Logo"/>
+      <label class="cv-nombre">Juan Ignacio Acosta Rios - Soluciones informáticas</label>
     </nav>
     <div className="cv-contents">
       <div className="cv-contents-left-panel">
